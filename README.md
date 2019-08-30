@@ -7,7 +7,7 @@
 ## 技能
 ### HTML / CSS : 
 - HTML5 語意化標籤。
-- 能純手刻版面。
+- 能用 HTML / CSS 純手刻版面。
 - 懂得如何使用 Flexbox 排版。
 - 利用 Media queries 做出 RWD 網頁。
 ### JavaScript : 
