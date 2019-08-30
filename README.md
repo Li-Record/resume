@@ -1,4 +1,5 @@
 # 李翊銘
+#### [個人網頁](https://white12343.github.io/leewebsite/) / [BLOG](https://medium.com/lees-前端筆記)
 - 生日: 1994/12/27
 - 電話: 0983-191-227
 - 信箱: white11190709@gmail.com
