@@ -7,19 +7,19 @@
 * * *
 ## 技能
 ### HTML / CSS : 
-- HTML5 語意化標籤。
-- 能用 HTML / CSS 純手刻版面。
-- 懂得如何使用 Flexbox 排版。
-- 利用 Media queries 做出 RWD 網頁。
+- HTML5 語意化標籤
+- 能用 HTML / CSS 純手刻版面
+- 使用 Flexbox 排版
+- 利用 Media queries 做出 RWD 網頁
 ### JavaScript : 
-- 
-- 
-- 
-- 
+- 了解基礎語法觀念
+- 使用 AJAX 串接 API 服務
+- 了解如何操作資料並呈現到畫面上
+- 能以 JavaScript 實現互動效果
 ### Git 版本控管 : 
-- 基本指令運用。
-- 懂得使用 branch 分支開發不影響主架構。
-- 了解合併衝突以及如何解決。
+- 基本指令運用
+- 懂得使用 branch 分支開發不影響主架構
+- 了解合併衝突以及如何解決
 ### 其他 :
 - 懂得使用 CSS 預處理器 ( Sass / Scss ) 寫出更好維護的 CSS，同時也提高開發效率。
 - 了解 BootStrap 4 基本架構，並利用 BootStap 4 去排版，提高專案開發效率。
@@ -36,6 +36,10 @@
 ##### [DEMO](https://white12343.github.io/clock/) / [CODE](https://codepen.io/Lee0709/pen/gOYLLPE) 
 - 利用 scss 整理 css 
 - 用 JavaScript 和 css 搭配寫出動畫效果
+### 高雄旅遊資訊
+##### [DEMO](https://white12343.github.io/Kaohsiung-Travel/) / [CODE](https://github.com/White12343/Kaohsiung-Travel/tree/master) 
+-  利用 AJAX 來獲取 JSON 資料
+- 運用 JavaScript 操作資料並顯示到畫面 
 * * *
 ## 工作經歷
 
