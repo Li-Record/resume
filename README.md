@@ -27,10 +27,14 @@
 * * *
 ## 個人作品
 ### Todo List
-##### [CODE](https://codepen.io/Lee0709/pen/GRKEbaL) / [DEMO](https://white12343.github.io/todo-list/) 
+##### [DEMO](https://white12343.github.io/todo-list/) / [CODE](https://codepen.io/Lee0709/pen/GRKEbaL)
 - 利用 Bootstrap 排版
 - 用 jQuery 和 JavaScript 寫出基本功能 CRUD
 - 用 localStorage 本地資料庫儲存資料。
+### Clock
+##### [DEMO](https://white12343.github.io/clock/) / [CODE](https://codepen.io/Lee0709/pen/gOYLLPE) 
+- 利用 scss 整理 css 
+- 用 JavaScript 和 css 搭配寫出動畫效果
 * * *
 ## 工作經歷
 
