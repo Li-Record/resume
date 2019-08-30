@@ -26,7 +26,8 @@
 
 * * *
 ## 個人作品
-### [Todo List](https://white12343.github.io/todo-list/)
+### Todo List
+##### [CODE](https://codepen.io/Lee0709/pen/GRKEbaL) / [DEMO](https://white12343.github.io/todo-list/) 
 - 利用 Bootstrap 排版
 - 用 jQuery 和 JavaScript 寫出基本功能 CRUD
 - 用 localStorage 本地資料庫儲存資料。
