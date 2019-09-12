@@ -13,7 +13,7 @@
 - 了解 BootStrap 4 基本架構，並利用 BootStap 4 去排版，提高專案開發效率
 ### JavaScript : 
 - 基礎語法觀念
-- 使用 AJAX 串接 API 服務 [高雄旅遊資訊網](https://white12343.github.io/Kaohsiung-Travel/) 
+- 使用 AJAX 串接 API 服務 [新北民宿](https://white12343.github.io/hotel-ajax/) 
 - 了解如何操作資料並呈現到畫面上
 - 能以 JavaScript 實現互動效果 [Todo List](https://white12343.github.io/todo-list/)
 - 能使用 jQuery 做基本網頁動態效果
@@ -25,17 +25,18 @@
 ## 個人作品
 ### Todo List
 ##### [DEMO](https://white12343.github.io/todo-list/) / [CODE](https://codepen.io/Lee0709/pen/GRKEbaL)
-- 利用 Bootstrap 排版
-- 用 jQuery 和 JavaScript 寫出基本功能 CRUD
-- 用 localStorage 本地資料庫儲存資料。
+- Bootstrap 排版
+- jQuery 和 JavaScript 寫出基本功能 CRUD
+- localStorage 本地資料庫儲存資料。
 ### Clock
 ##### [DEMO](https://white12343.github.io/clock/) / [CODE](https://codepen.io/Lee0709/pen/gOYLLPE) 
-- 利用 scss 整理 css 
-- 用 JavaScript 和 css 搭配寫出動畫效果
-### 高雄旅遊資訊
-##### [DEMO](https://white12343.github.io/Kaohsiung-Travel/) / [CODE](https://github.com/White12343/Kaohsiung-Travel/tree/master) 
--  利用 AJAX 來獲取 JSON 資料
-- 運用 JavaScript 操作資料並顯示到畫面 
+- scss 整理 css 
+- JavaScript 和 css 搭配寫出動畫效果
+### 新北民宿
+##### [DEMO](https://white12343.github.io/hotel-ajax/) / [CODE](hhttps://github.com/White12343/hotel-ajax) 
+- AJAX 獲取 JSON 資料
+- JavaScript 操作資料並顯示到畫面 
+- json server 建立 api
 * * *
 ## 個人經歷
 ### 工讀生／經瑋國際股份有限公司 ( 2018／11～2019／5 )
