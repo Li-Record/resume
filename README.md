@@ -33,7 +33,7 @@
 - scss 整理 css 
 - JavaScript 和 css 搭配寫出動畫效果
 ### 新北民宿
-##### [DEMO](https://white12343.github.io/hotel-ajax/) / [CODE](hhttps://github.com/White12343/hotel-ajax) 
+##### [DEMO](https://white12343.github.io/hotel-ajax/) / [CODE](https://github.com/White12343/hotel-ajax) 
 - AJAX 獲取 JSON 資料
 - JavaScript 操作資料並顯示到畫面 
 - json server 建立 api
